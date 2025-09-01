@@ -1,2 +1,2 @@
-# Taranmış PDF Sorunu ve OCR ile Çözümü
-Taranmış PDF Sorunu ve OCR ile Çözümü
+# Scanned PDF Problem and Solution with OCR
+Scanned PDF Problem and Solution with OCR
